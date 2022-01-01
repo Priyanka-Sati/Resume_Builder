@@ -1,5 +1,5 @@
 # Project link
-https://resume-builder-5bc10.web.app/education
+https://resume-builder-5bc10.web.app/
 
 
 
